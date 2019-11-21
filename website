@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+  <meta http-equiv="Content-Type" content="texst/html;charset=utf-8"/>
+  <title> Yo It's Syd </title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<img src=https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
+<p> What's up </p>
+
+</body>
+</html>
