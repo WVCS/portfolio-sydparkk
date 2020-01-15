@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+</style>
+</head>
+<body>
+  
+<ul>
+  <li> <a href = "#home"> Home </a> </li>
+  <li> <a href = "#interactive"> Interactive </a> </li>
+  <li> <a href = "#kirby"> Kirby </a> </li>
+  <li> <a href = "#other"> Other </a> </li>
+</ul>
+  
+  
+   <h1 align = "center" style = "font-family: courier font-size: 40px;"> Interactive </h1>
+  <h2 align = "center" style = "font-family: courier font-size: 30px;"> These are some of my small term projects which are user interactive. </h2>
+  
+  <h3 align = "center" style = "font-family: courier font-size: 20px;"> This is a simple Apple Picking app:
+  </h3>
+  
+  <div class = "center"> <iframe width = "400" height = "620" style = "border: 0px;" src = "https://studio.code.org/projects/applab/70YScGbvSsoAEZpD1IU9YwT31vyhkUalKMRqWy75TDg/embed"> </iframe> </div>
+  
+  <br>
+  
+  <h3 align = "center" style = "font-family: courier font-size: 20px;"> This is a Mad Lib application on How to Feed an Elephant:
+  </h3>
+  
+  <div class = "center"> <iframe width = "400" height = "620" style = "border: 0px;" src = "https://studio.code.org/projects/applab/uzW7e7vkXzmysznZ2TnNgIkNmkTR-oVK43vhvSQR1pQ/embed"> </iframe> </div>
+  
+  <br>
+  
+  <a href = "https://scratch.mit.edu/projects/325945461"> <p style = "text-align: center"> This is my very first Scratch project in this AP CSP class </p> </a>
+  
+</body>
+</html>
